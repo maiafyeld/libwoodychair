@@ -1,0 +1,7 @@
+cache-dir: ~/.cache
+registry: default
+PORT=8080
+HOST=0.0.0.0
+LOG_LEVEL=info
+cache-dir: ~/.cache
+registry: default
